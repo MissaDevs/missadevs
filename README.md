@@ -2,7 +2,11 @@
 
 [![Header](https://github.com/misadevs/misadevs/blob/main/header.png)](misadevs.com)
 
-![Visitor Count](https://profile-counter.glitch.me/misadevs/count.svg)
+<div align="center">
+  ![Visitor Count](https://profile-counter.glitch.me/misadevs/count.svg)
+  <p>Visitor count</p>
+</div>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=misadevs&label=Profile%20views&color=0e75b6&style=flat" alt="misadevs" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=misadevs" alt="misadevs" /></a> </p>
