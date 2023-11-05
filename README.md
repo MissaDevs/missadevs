@@ -3,11 +3,9 @@
 [![Header](https://github.com/misadevs/misadevs/blob/main/header.png)](misadevs.com)
 
 <div align="center">
+  <h4>Visitor count</h4>
   
   ![Visitor Count](https://profile-counter.glitch.me/misadevs/count.svg)
-  
-  <p>Visitor count</p>
-  
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=misadevs&label=Profile%20views&color=0e75b6&style=flat" alt="misadevs" /> </p>
