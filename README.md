@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Misael</h1>
 
 [![Header](https://github.com/misadevs/misadevs/blob/main/header.png)](misadevs.com)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&random=false&width=435&lines=If+you+can+imagine%2C+you+can+do+it!)](https://git.io/typing-svg)
 <div align="center">
   <h4>Visitor count</h4>
   
