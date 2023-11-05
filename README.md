@@ -1,4 +1,4 @@
-[![Header](https://github.com/misadevs/misadevs/blob/main/misa_header.png)](misadevs.com)
+[![Header](https://github.com/misadevs/misadevs/blob/main/misa_header.png](https://github.com/misadevs/misadevs/blob/main/header.png)](misadevs.com)
 <h1 align="left">Hi 👋, I'm Misael</h1>
 <h3 align="left">A passionate dev from Mexico</h3>
 
